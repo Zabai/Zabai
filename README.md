@@ -3,8 +3,7 @@
 
 I am Zabai, a software engineer based in Canary Islands, Spain.
 
-- 🔭 I’m currently working on Plexus Tech.
-- 🌱 I’m currently learning MEAN stack.
+- 🔭 I’m currently looking for job.
 - 💬 Ask me about software architecture.
 - 👨🏻‍💻 Currently using:
 [<img src="https://raw.githubusercontent.com/Zabai/Zabai/main/static/images/react-js.png" alt="React JS" width="32"/>](https://reactjs.org/)
